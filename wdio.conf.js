@@ -73,7 +73,7 @@ exports.config = {
 args:[
   '--window-size=1920,1080',
   '--incognito',
-  //'--headless',
+  '--headless',
 ],
 
       }
